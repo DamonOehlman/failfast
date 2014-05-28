@@ -1,6 +1,6 @@
 {
   "name": "failfast",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple process uncaughtException handler that will kill a process but log the error",
   "main": "index.js",
   "scripts": {
